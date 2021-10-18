@@ -11,8 +11,8 @@
             "program": "${file}",
             "console": "integratedTerminal",
             //"console": "internalConsole",
-            "pythonPath": "/opt/anaconda3/envs/anaconda_ds/bin/python3",
-            "debugStdLib": true,
+            "python": "/opt/anaconda3/envs/anaconda_ds/bin/python3",
+            "justMyCode": false,
             "stopOnEntry": true
         }
     ]
